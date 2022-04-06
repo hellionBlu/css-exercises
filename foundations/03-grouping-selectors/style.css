@@ -1,0 +1,24 @@
+/* hellionBlu
+Completed April 5, 2022
+
+ASSIGNMENT
+Elements - 2 button elements to alter
+
+The first element: a black background and white text
+The second element: a yellow background
+Both elements: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback 
+*/
+
+.buttonDefault {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.buttonDefault.mainStyle {
+    background-color: black;
+    color: white;
+}
+
+.secondaryStyle {
+    background-color: yellow;
+}

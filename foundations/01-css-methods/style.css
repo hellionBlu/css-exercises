@@ -1,0 +1,18 @@
+/* hellionBlu
+Completed April 5, 2022
+This will be the css file, named style.css, for The Odin Project external css method
+
+Assignment: 
+The properties you need to add to each element are: other elements with suggested property adjustments are located on linked html file.
+
+* `div`: a red background, white text, a font size of 32px, center aligned, and bold
+*/
+
+div {
+    background-color: red;
+}
+
+.externalMethod {
+    color: white;
+    font-size: 32px;
+}
